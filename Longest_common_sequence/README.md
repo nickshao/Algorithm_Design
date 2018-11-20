@@ -3,8 +3,7 @@
 This program aims to find **all** longest common subsequences of given two sequences.
 
 + <font size=4 face="黑体">**I/O format**</font>:
-    + Each input contains two sequences, both of them satisfying   : 
-     0 $\leq$ *length(A)*,*length(B)* $\leq$ 100.
+    + Each input contains two sequences, the length of each sequence is not greater than 100.
     + This program will output `length of LCS` and `number of LCS` in the first line, and each of them listed in the following output.
 + <font size=4 face="黑体">**How to run**</font>:
     + Using Makefile:
