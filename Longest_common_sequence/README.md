@@ -12,7 +12,7 @@ This program aims to find **all** longest common subsequences of given two seque
     + compile command:
     ```$g++ -O2 -std=c++11 LCS.cpp -o LCS```
 
-+ <font color=#cc0000 size=4 face="黑体">**Sample Input**</font>:
++ <font color=#cc0000 size=4 face="黑体">**Sample Input**</font>:     
 ```./LCS QHCCDETMFPPWZGIFEFUA GZXPAWWOOCZEMBIPHECM```
 + <font color=#6600ff size=4 face="黑体">**Sample Output**</font>:
     ```
